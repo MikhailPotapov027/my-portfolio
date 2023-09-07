@@ -54,7 +54,7 @@ https://docs.google.com/spreadsheets/d/1TRZJFYeCnPOuZl2OUDjmsgvIJK4p47rGzUZKXUYl
 И ответил на первый вопрос, как менялось общее количество уроков на балансах студентов?
 Просуммировав нужные поля из CTE balances и создав визуализацию сделал выводы.
 
-<p>Ссылка на проект
+<p>Ссылка на проект:
 https://docs.google.com/spreadsheets/d/1YFtyCTWHtm75gCk4EREZF_iC3d4IZ21jxrYrkxZGrtk/edit?usp=sharing
 
 <p>Выводы (итоги):
